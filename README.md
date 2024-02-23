@@ -1,3 +1,10 @@
+<p align="center">
+    <img width="200" src="https://github.com/GerYar/Certificates/blob/main/Linkedin.png">
+</p>
+
+
+
+
 - 👋 Hi, I’m @GerYar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
