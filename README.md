@@ -25,6 +25,7 @@
 - Individual
   * [Web scraping houses](https://github.com/GerYar/WebscrapingHousing)
   * [Movies with streaming services](https://github.com/GerYar/Netflix)
+  * [NYC study schools](https://github.com/GerYar/NYC_schools/blob/main/practicar.ipynb)
 
 - In team
   * [Into the film industry](https://github.com/GerYar/Killer-Pandas)
