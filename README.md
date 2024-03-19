@@ -32,7 +32,7 @@
 |[*Home prices Queretaro*](https://github.com/GerYar/WebscrapingHousing)   |📄This is a personal project (in progress) where I am studying the real estate market by analyzing the SHF index in the state of Querétaro and current prices. In this first stage completed. I captured information from a website using webscraping techniques. The objective is to apply prediction techniques and evaluate them with linear assumptions.|BeautifulSoup, selenium |
 | | | |
 
-* Data analysis notebooks
+* Short data analysis notebooks
 
 | | | | 
 | --- | --- | --- | 
