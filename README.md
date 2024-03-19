@@ -4,8 +4,8 @@
 
 ### About me
 
-- 🏦 I'm analyst with one year in the IT industry
-- 🏭 I'm mechanical engineer with two years of experience working in manufacturing indutry
+- 🏦 I'm an analyst with one year in the IT industry
+- 🏭 I'm a mechanical engineer with two years of experience working in manufacturing indutry
 - 📊 I'm interested in data analysis, statistics and machine learning
 - 🚀 I have a lot of ideas for future personal projects in data analysis
 - 🌲 I like camping and coffee
