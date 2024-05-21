@@ -49,8 +49,9 @@
 ----
 ### Certifications
 - [AWS Certified Cloud Practitioner](https://github.com/GerYar/Certificates/blob/main/AWS/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
-- [Microsoft Certified: Power BI Data Analyst Associate](https://github.com/GerYar/Certificates/blob/main/PowerBI/Certificate_Microsoft%20Learn.pdf)
+- [Microsoft Certified: Power BI Data Analyst Associate](https://github.com/GerYar/Certificates/blob/main/PowerBI/Credencial%20%20_%20Microsoft%20Learn.pdf)
 - [Deloitte AI Academy US Certificate](https://github.com/GerYar/Certificates/blob/main/AI_Academy/merged_PDF.pdf)
 - [Data Scientist with Python track (Datacamp)](https://github.com/GerYar/Certificates/blob/main/DataCamp/merged_PDF.pdf)
 - [Google Data Analytics Professional Certificate (Coursera)](https://github.com/GerYar/Certificates/blob/main/Google/merged_PDF.pdf)
+- [Cloud Digital Leader Google Cloud](https://github.com/GerYar/Certificates/blob/main/Google%20Cloud/CloudDigitalLeader_certificate.pdf)
 ----
